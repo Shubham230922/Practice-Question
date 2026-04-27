@@ -49,6 +49,7 @@ public class Minesweeper {
             }
             System.out.println();
         }
+        sc.close();
     }
 
     /*
