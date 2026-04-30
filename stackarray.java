@@ -35,7 +35,8 @@ class stackarray {
 
     void peek() {
         if (top == -1) {
-            System.out.println("stack is empty");
+            System.out.println("stack is empty");5
+            
         } else {
             System.out.println(arr[top] + "top element");
         }
