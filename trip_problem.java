@@ -30,6 +30,22 @@ class trip_problem{
         System.out.printf("$%.2f\n",result);
        sc.close(); 
     }
+/* input
+3
+10.00
+20.00
+30.00
+4
+15.00
+15.01
+3.00
+3.01
+0
+output
+$10.00
+$11.99
+*/
+
     
 
 }
