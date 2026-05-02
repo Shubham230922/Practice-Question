@@ -37,3 +37,10 @@ public class Main {
         sc.close();
     }
 }
+/*input
+4 1 4 2 3
+5 1 4 2 -1 6
+output
+Jolly
+Not Jolly
+*/
